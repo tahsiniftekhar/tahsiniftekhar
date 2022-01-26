@@ -112,7 +112,9 @@
 <a href="https://www.facebook.com/shah0s7" target="_blank">
     <img align="center" alt="Tahsin Iftekhar | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
-<strong> Portfolio: </strong>👨‍💻 <a href="https://tahsiniftekhar.com" target="_blank">tahsiniftekhar.com</a>
+<a href="https://tahsiniftekhar.com" target="_blank">
+ <img width="36px" src="https://static.vecteezy.com/system/resources/thumbnails/002/254/200/small/programmer-computer-expert-rgb-color-icon-vector.jpg" />
+</a>
 <p>
 
 
